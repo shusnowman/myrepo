@@ -94,3 +94,4 @@ def scraper(link, n_posts, login = 'номер телефона', n_comments = 1
 
 
 scraper(link="https://vk.com/milotushechki", n_posts=2)
+print('yes')
